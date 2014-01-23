@@ -14,6 +14,7 @@ regions[sidebar_second] = 'Secondary'
 regions[footer]         = 'Footer'
 regions[page_top]       = 'Page top'
 regions[page_bottom]    = 'Page bottom'
+regions[jumbotron]      = 'Jumbotron'
 
 ; Stylesheets
 stylesheets[all][] = css/style.css
@@ -41,6 +42,8 @@ stylesheets[all][] = css/style.css
 ; ;settings[toggle_search] = 1
 ; ; Disable the CDN as we are using our own source files.
 ; settings[bootstrap_cdn] = ''
+
+scripts[] = 'script.js'
 
 
 ;*************************
